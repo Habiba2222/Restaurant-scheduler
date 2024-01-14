@@ -1,0 +1,91 @@
+﻿  CancelEvent.cpp
+  CMUgraphics.cpp
+C:\Users\Lenovo\Desktop\koleya\Team_R7\Restaurant\CMUgraphicsLib\CMUgraphics.cpp(751,3): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Lenovo\Desktop\koleya\Team_R7\Restaurant\CMUgraphicsLib\CMUgraphics.cpp(1164,2): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Lenovo\Desktop\koleya\Team_R7\Restaurant\CMUgraphicsLib\CMUgraphics.cpp(1171,2): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Lenovo\Desktop\koleya\Team_R7\Restaurant\CMUgraphicsLib\CMUgraphics.cpp(1202,2): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Lenovo\Desktop\koleya\Team_R7\Restaurant\CMUgraphicsLib\CMUgraphics.cpp(1210,2): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Lenovo\Desktop\koleya\Team_R7\Restaurant\CMUgraphicsLib\CMUgraphics.cpp(1357,23): warning C4018: '>': signed/unsigned mismatch
+  colors.cpp
+  image.cpp
+C:\Users\Lenovo\Desktop\koleya\Team_R7\Restaurant\CMUgraphicsLib\image.cpp(115,29): warning C4018: '<': signed/unsigned mismatch
+  keyqueue.cpp
+  mousequeue.cpp
+  windowinput.cpp
+  Demo_Main.cpp
+  Event.cpp
+  ArrivalEvent.cpp
+  GUI.cpp
+  PromoteEvent.cpp
+  Motorcycle.cpp
+  Order.cpp
+C:\Users\Lenovo\Desktop\koleya\Team_R7\Restaurant\Rest\Order.cpp(20,14): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\Lenovo\Desktop\koleya\Team_R7\Restaurant\Rest\Order.cpp(103,9): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+  Restaurant.cpp
+C:\Users\Lenovo\Desktop\koleya\Team_R7\Restaurant\Rest\Restaurant.cpp(239,13): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\Lenovo\Desktop\koleya\Team_R7\Restaurant\Rest\Restaurant.cpp(277,13): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\Lenovo\Desktop\koleya\Team_R7\Restaurant\Rest\Restaurant.cpp(315,13): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\Lenovo\Desktop\koleya\Team_R7\Restaurant\Rest\Restaurant.cpp(353,13): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\Lenovo\Desktop\koleya\Team_R7\Restaurant\Rest\Restaurant.cpp(386,13): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\Lenovo\Desktop\koleya\Team_R7\Restaurant\Rest\Restaurant.cpp(414,13): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\Lenovo\Desktop\koleya\Team_R7\Restaurant\Rest\Restaurant.cpp(440,13): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\Lenovo\Desktop\koleya\Team_R7\Restaurant\Rest\Restaurant.cpp(466,13): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\Lenovo\Desktop\koleya\Team_R7\Restaurant\Rest\Restaurant.cpp(501,13): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\Lenovo\Desktop\koleya\Team_R7\Restaurant\Rest\Restaurant.cpp(535,13): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\Lenovo\Desktop\koleya\Team_R7\Restaurant\Rest\Restaurant.cpp(569,13): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\Lenovo\Desktop\koleya\Team_R7\Restaurant\Rest\Restaurant.cpp(602,13): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\Lenovo\Desktop\koleya\Team_R7\Restaurant\Rest\Restaurant.cpp(625,9): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\Lenovo\Desktop\koleya\Team_R7\Restaurant\Rest\Restaurant.cpp(1274,42): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\Lenovo\Desktop\koleya\Team_R7\Restaurant\Rest\Restaurant.cpp(881,16): warning C4101: 'pMot': unreferenced local variable
+C:\Users\Lenovo\Desktop\koleya\Team_R7\Restaurant\Rest\Restaurant.cpp(910,16): warning C4101: 'pMot': unreferenced local variable
+C:\Users\Lenovo\Desktop\koleya\Team_R7\Restaurant\Rest\Restaurant.cpp(938,16): warning C4101: 'pMot': unreferenced local variable
+C:\Users\Lenovo\Desktop\koleya\Team_R7\Restaurant\Rest\Restaurant.cpp(971,16): warning C4101: 'pMot': unreferenced local variable
+C:\Users\Lenovo\Desktop\koleya\Team_R7\Restaurant\Rest\Restaurant.cpp(999,16): warning C4101: 'pMot': unreferenced local variable
+C:\Users\Lenovo\Desktop\koleya\Team_R7\Restaurant\Rest\Restaurant.cpp(1027,16): warning C4101: 'pMot': unreferenced local variable
+C:\Users\Lenovo\Desktop\koleya\Team_R7\Restaurant\Rest\Restaurant.cpp(1060,16): warning C4101: 'pMot': unreferenced local variable
+C:\Users\Lenovo\Desktop\koleya\Team_R7\Restaurant\Rest\Restaurant.cpp(1088,16): warning C4101: 'pMot': unreferenced local variable
+C:\Users\Lenovo\Desktop\koleya\Team_R7\Restaurant\Rest\Restaurant.cpp(1116,16): warning C4101: 'pMot': unreferenced local variable
+C:\Users\Lenovo\Desktop\koleya\Team_R7\Restaurant\Rest\Restaurant.cpp(1149,16): warning C4101: 'pMot': unreferenced local variable
+C:\Users\Lenovo\Desktop\koleya\Team_R7\Restaurant\Rest\Restaurant.cpp(1177,17): warning C4101: 'pMot': unreferenced local variable
+C:\Users\Lenovo\Desktop\koleya\Team_R7\Restaurant\Rest\Restaurant.cpp(1205,16): warning C4101: 'pMot': unreferenced local variable
+  Generating Code...
+C:\Users\Lenovo\Desktop\koleya\Team_R7\Restaurant\Rest\Restaurant.cpp(2325): warning C4715: 'Restaurant::Assigning': not all control paths return a value
+C:\Users\Lenovo\Desktop\koleya\Team_R7\Restaurant\List.h(121): warning C4715: 'List<Order *>::Delete': not all control paths return a value
+  jpegload.c
+C:\Users\Lenovo\Desktop\koleya\Team_R7\Restaurant\CMUgraphicsLib\jpegload.c(23,12): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  jcomapi.c
+  jcparam.c
+  jdapimin.c
+  jdapistd.c
+  jdatasrc.c
+  jdcoefct.c
+  jdcolor.c
+  jddctmgr.c
+  jdhuff.c
+  jdinput.c
+  jdmainct.c
+  jdmarker.c
+  jdmaster.c
+  jdmerge.c
+  jdphuff.c
+  jdpostct.c
+  jdsample.c
+  jdtrans.c
+  jerror.c
+C:\Users\Lenovo\Desktop\koleya\Team_R7\Restaurant\CMUgraphicsLib\jpeg\jerror.c(169,5): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Lenovo\Desktop\koleya\Team_R7\Restaurant\CMUgraphicsLib\jpeg\jerror.c(171,5): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  Generating Code...
+  Compiling...
+  jidctflt.c
+  jidctfst.c
+  jidctint.c
+  jidctred.c
+  jmemmgr.c
+C:\Users\Lenovo\Desktop\koleya\Team_R7\Restaurant\CMUgraphicsLib\jpeg\jmemmgr.c(1103,19): warning C4996: 'getenv': This function or variable may be unsafe. Consider using _dupenv_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Lenovo\Desktop\koleya\Team_R7\Restaurant\CMUgraphicsLib\jpeg\jmemmgr.c(1106,11): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  jmemnobs.c
+  jquant1.c
+  jquant2.c
+  jutils.c
+  Generating Code...
+  Restaurant.vcxproj -> C:\Users\Lenovo\Desktop\koleya\Team_R7\Debug\Restaurant.exe

@@ -1,0 +1,17 @@
+FT   ID   AT   WT   ST
+Region A:
+        Orders: 0 [Norm:0, Froz:0, VIP:0]
+        MotorC:0 [Norm:0, Froz:0, VIP:0]
+        Avg Wait= , Avg Serv
+Region B:
+        Orders: 0 [Norm:0, Froz:0, VIP:0]
+        MotorC:0 [Norm:0, Froz:0, VIP:0]
+        Avg Wait= , Avg Serv
+Region C:
+        Orders: 0 [Norm:0, Froz:0, VIP:]0
+        MotorC:0 [Norm:0, Froz:0, VIP:0 ]
+        Avg Wait= , Avg Serv
+Region D:
+        Orders: 0 [Norm:0, Froz:0, VIP:0]
+        MotorC:0 [Norm:0, Froz:0, VIP:0]
+        Avg Wait= , Avg Serv
